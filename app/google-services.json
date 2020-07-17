@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1030857108024",
+    "firebase_url": "https://likeseries-c426a.firebaseio.com",
+    "project_id": "likeseries-c426a",
+    "storage_bucket": "likeseries-c426a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030857108024:android:c84eb3104451f6d4",
+        "android_client_info": {
+          "package_name": "com.loja.jesus.likeseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030857108024-vhepm37kbiuba0mt1mfkoicadupv0t03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loja.jesus.likeseries",
+            "certificate_hash": "b67fafccd89e9f84817a436521be32dcae26e0cf"
+          }
+        },
+        {
+          "client_id": "1030857108024-89utj4g5ae01hg2le92deciocvk0ondh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwv7KywtLvjATL8xvBa4codfhsHb7GSL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030857108024-89utj4g5ae01hg2le92deciocvk0ondh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

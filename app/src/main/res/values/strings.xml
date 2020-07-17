@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Like-Series</string>
+    <string name="SplasScream">splash</string>
+    <!--Menú recordatorio-->
+    <string name="action_settings">¿Olvido la contraseña?</string>
+    <!--LOGIN-->
+    <string name="LOGIN">LOGIN</string>
+    <string name="correo">Correo:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="isesion">Iniciar Sesión</string>
+    <string name="noregistrado">¿No estas registrado?</string>
+    <!--REGISTRO-->
+    <string name="REGISTRO">REGISTRO</string>
+    <string name="correor">Su correo electrónico:</string>
+    <string name="nombre">Nombre de usuario:</string>
+    <string name="nombreerror">Nombre de usuario mal formado</string>
+    <string name="contrasenar">Su Contraseña:</string>
+    <string name="bregistrar">Registrar Usuario</string>
+    <string name="correou">Correo Invalido</string>
+    <string name="contraseñadevil">Contraseña debil</string>
+    <string name="existente">El usuario ya esta registrado</string>
+    <string name="title_activity_registrado">Registrado</string>
+    <string name="title_activity_like">Like-Series</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--Acuerdo y Mensaje-->
+    <string name="ComboBox2">Acepto los términos y condiciones de uso</string>
+    <string name="ComboBox1">Deseo recibir mensajes de las ultimas actualizaciones</string>
+
+</resources>
